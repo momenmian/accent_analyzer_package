@@ -1,0 +1,5 @@
+flask==3.1.1
+requests==2.32.3
+yt-dlp==2025.4.30
+pydub==0.25.1
+SpeechRecognition==3.14.3
