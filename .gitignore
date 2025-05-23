@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+.env/
+.env*/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+debug.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage results
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# PyBuilder
+.target/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE / editor configs
+.idea/
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.tmp
+*.log
+
+# Project-specific artifacts
+# Large downloaded models and checkpoints
+pretrained_models/
+wav2vec2_checkpoints/
+
+# Cached or generated audio files
+audio_cache/
+*.wav
+*.mp3
+
+# Temporary download folders created by the app
+accent_dl_*/
+
+# If using streamlit, ignore its static runtime cache
+.streamlit/ 

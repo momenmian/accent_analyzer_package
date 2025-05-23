@@ -1,0 +1,7 @@
+speechbrain==0.5.15
+torchaudio>=0.12
+requests>=2.31.0
+ffmpeg-python>=0.2.0
+transformers>=4.39.0
+soundfile>=0.12.1
+streamlit>=1.25.0  # UI 
